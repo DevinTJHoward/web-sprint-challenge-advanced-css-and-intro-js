@@ -23,10 +23,24 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+(1) I would tell them that accessibility does not only include the disabled but everyone who might have a hard time reading or listening to the contents thats being displayed any device. Like for intance if someone was working on their computer and wanted to show someone else what they discovered on the mobile device, but some of the content that was avaiable on the computer,is not on the mobile.. it creates a problem, so you have to make the content available to everyone regardless of physical disabilities.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+(2) Three diffrent thing that I can do to ensure thhat the website is accessible is the use easy readable content(color- certain super bright colors may hurt or certain hues people may not see very well), another way  to ensure the website is accessable is the use a (viewport meta tag- which means  no matter the width of the device you are on, whether on desktop or mobile. the website will follow the width of the device the user is on. Also one more method to ensure it is the (user interface- meaning the what the content displays and how it operates on sed device appeears and operates in predictable ways) you wouldn't want to click on a buy me button and it takes you to a whole alternate page that has nothing to do with the page you were previously on...
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+(3) I would tell them that a variable or sometimes called (VAR) is something that can be changed. In computer programming we use variables to store information that might change and can be used later in our program.
+
 4. What is the purpose of using functions in code?
+
+(4) The purpose of using functions in code is so that we can use it over and over again, which for a large code its very usefull beecause Function can allow the coder to take in data,process it, and return a result. It combines many instructons into a single line of code.
+
 5. How do you access a key inside of an object inside of an array?
+
+(5) Object.keys(object)
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
